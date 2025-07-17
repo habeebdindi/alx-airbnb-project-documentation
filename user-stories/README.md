@@ -1,0 +1,1 @@
+This directory contains the user stories of the airbnb app
